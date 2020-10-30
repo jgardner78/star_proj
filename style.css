@@ -1,0 +1,11 @@
+#can1{border:red double 10px;
+position:absolute;left:50px;top:50px;}
+
+#but1{position:absolute;left:900px;top:50px;border:purple solid 3px;}
+#but2{position:absolute;left:900px;top:100px;border:purple solid 3px;}
+#tex1{position:absolute;left:900px;top:150px;border:purple solid 4px;}
+#but3{position:absolute;left:900px;top:200px;border:purple solid 3px;}
+#but4{position:absolute;left:900px;top:250px;border:purple solid 3px;}
+#but5{position:absolute;left:900px;top:300px;border:purple solid 3px;}
+#tex2{position:absolute;left:900px;top:350px;border:purple solid 4px;}
+#p1{position:absolute;left:900px;top:400px;border:purple solid 2px;padding:3px;}
